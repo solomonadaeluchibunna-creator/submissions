@@ -1,0 +1,22 @@
+Team Name: Team 34  
+Team Members: Usman Suleiman Usman and Solomon Adaelu C
+
+Challenge Chosen: Predictive Agriculture for Smallholder Farmers  
+
+Problem Statement & Local Context
+Smallholder farmers in Northern Nigeria face unpredictable weather patterns, poor access to timely data, and low yields. They need accurate, easy-to-use tools to make informed decisions on planting, irrigation, and harvesting.
+
+Our Solution
+We developed a Real-Time Weather Alert System, using Make.com that integrates with weather APIs to notify farmers daily about rainfall predictions. The system helps farmers plan activities efficiently and reduce losses.
+
+Technologies Used
+- Make.com for automation
+- Open-Meteo API for weather data
+- Google Sheets for data tracking
+- HTTP & Email Modules for alerts
+
+
+Impact & Scalability
+- Helps farmers increase productivity by responding to weather conditions.
+- Scalable across rural communities with internet access.
+- Easy to replicate in other regions using similar API sources.
